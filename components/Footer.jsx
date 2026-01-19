@@ -28,13 +28,19 @@ export default function Footer() {
           }}
         >
           <a
-            href="/forms/one-on-one"
+            href="live-workshop"
+            className="footer-link"
+          >
+            Live Workshop
+          </a>
+          <a
+            href="/one-on-one-help"
             className="footer-link"
           >
             Get 1-on-1 Help
           </a>
           <a
-            href="/forms/medicare-guide"
+            href="/medicare-guide"
             className="footer-link"
           >
             Request a Medicare Guide

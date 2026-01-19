@@ -29,7 +29,7 @@ export default function Resources() {
       <Navbar />
       <section className="section">
         <div className="container">
-          <h1 className="h-serif">Workshops &amp; Resources</h1>
+          <h1 className="h-serif">Resources:</h1>
           <div className="rule"></div>
           <div className="grid grid-2" style={{ alignItems: "start" }}>
             <ResourceColumn items={left} />
